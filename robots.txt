@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ber4gyatf.github.io/sitemap.xml
